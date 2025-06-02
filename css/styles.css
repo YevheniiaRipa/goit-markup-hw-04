@@ -381,11 +381,7 @@ img {
   max-width: 264px;
 }
 
-.footer-container {
-  gap: 100px;
-}
-
-.footer-wrapper-right {
+.footer-wrapper-left {
   margin-right: 120px;
 }
 
